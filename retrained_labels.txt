@@ -1,0 +1,31 @@
+0 0 adidas nmd
+0 1 adidas ultraboost19
+0 2 nike air huarache
+0 3 nike air max97
+0 4 nike w react element55
+0 5 vans old skool
+0 6 nike classic cortez
+0 7 converse all star
+0 8 converse chuck
+0 9 adidas stan smith
+1 00 adidas lxcon
+1 01 adidas consortium runner
+1 02 nike w air max dia
+1 03 nike air max270 react
+1 04 nike air max90
+1 05 adidas ozweego tr
+1 06 adidas yeezy 350
+1 07 nike zoom2k
+1 08 nike zoom pegasus
+1 09 adidas superstar
+2 00 adidas yung 1
+2 01 nike air vapormax
+2 02 balenciaga triple s
+2 03 new balance 373
+2 04 fila disruptor
+2 05 adidas yeezy boost700
+2 06 nike daybreak sp
+2 07 adidas originals falcon
+2 08 puma suede classic
+2 09 adidas superstar slip on
+3 00 nike roshe run
